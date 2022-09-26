@@ -1,4 +1,4 @@
-# PyGame-Side-Scroller!!
+# PyGame-Side-Scroller 
 
 A side scrolling game built using the PyGame library. The game utilizes a soundtrack as well as several different sprites and animations. The high score is shown at the end.
 
